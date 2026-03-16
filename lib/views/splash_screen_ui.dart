@@ -30,7 +30,6 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            SizedBox(height: 70.0),
             Image.asset(
               'assets/icon/icon.png',
               width: 100.0,
